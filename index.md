@@ -5,3 +5,5 @@
 ##### This is an H5 Header
 ###### This is an H6 Header
 _Commit Message_: Added headers to index
+alt-text!![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
